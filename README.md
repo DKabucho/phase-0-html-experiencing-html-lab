@@ -14,7 +14,7 @@ If you haven't already, **fork and clone** this lesson into your local
 environment. Navigate into its directory in the terminal, then run `code .` to
 open the files in Visual Studio Code.
 
-## Create an Ordered HTML List
+
 
 Think of a collection of things united by theme: Pokémon, Old-school MC's, Prime
 Ministers of New Zealand, Magical Beasts and Where to Find Them, etc. We're
