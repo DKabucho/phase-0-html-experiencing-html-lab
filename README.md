@@ -5,16 +5,6 @@
 - Create an ordered HTML list
 - Create an unordered HTML list
 
-## Introduction
-
-How do we go about writing text for the web? How is that different from the text
-that we write in a text file? We're going to experience for ourselves how these
-things are different in this lab.
-
-You don't need any prior knowledge of HTML for this lab. We're going to tell you
-what to type. Don't focus on specific commands or taking notes. Everything will
-be covered thoroughly later. Instead, the goal of this exercise is to feel the
-joy of editing a file and seeing the change "out there."
 
 **NOTE:** We don't expect you to know _markup_, _content_, _source text_, or
 _rendered text_ yet. We'll be defining them in this lab.
