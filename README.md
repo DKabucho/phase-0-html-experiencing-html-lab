@@ -9,7 +9,6 @@
 **NOTE:** We don't expect you to know _markup_, _content_, _source text_, or
 _rendered text_ yet. We'll be defining them in this lab.
 
-## Getting Started
 
 If you haven't already, **fork and clone** this lesson into your local
 environment. Navigate into its directory in the terminal, then run `code .` to
